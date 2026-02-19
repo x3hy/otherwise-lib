@@ -5,7 +5,9 @@
 extern "C"
 {
 #endif
+#ifndef otherwise
 #define otherwise if else
+#endif
 // Thats all folks..
 #ifdef __cplusplus
 }
