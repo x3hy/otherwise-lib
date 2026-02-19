@@ -10,7 +10,6 @@
 Simply place the otherwise.h file in your projects folder and use as follows:
 ```c
 #include "otherwise.h"
-#include <stdio.h>
 
 #define MY_VALUE 1234
 
