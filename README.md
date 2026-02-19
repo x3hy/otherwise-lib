@@ -2,10 +2,11 @@
 ![if else, elif, otherwise programmer meme](src/meme.webp)
 ---
 
-A small library to help british people adjust to programming, This library introduces the `otherwise` keyword that acts as a `if else`.
+<p>A small library to help british people adjust to programming, This library introduces the `otherwise` keyword that acts as a `if else`.</p>
 ---
 
 ## Usage:
+
 Simply place the otherwise.h file in your projects folder and use as follows:
 ```c
 #include "otherwise.h"
