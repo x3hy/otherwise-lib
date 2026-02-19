@@ -1,5 +1,5 @@
 # Otherwise lib
-![if else, elif, otherwise programmer meme](src/mem.webp)
+![if else, elif, otherwise programmer meme](src/meme.webp)
 ---
 
 A small library to help british people adjust to programming, This library introduces the `otherwise` keyword that acts as a `if else`.
