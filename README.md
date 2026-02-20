@@ -2,7 +2,7 @@
 ![if else, elif, otherwise programmer meme](src/meme.webp)
 ---
 
-A small library to help british people adjust to programming, This library introduces the `otherwise` keyword that acts as a `else if`.
+A small library to help british people adjust to programming, This library introduces the `otherwise` keyword that acts as a `else`.
 
 ## Usage:
 
